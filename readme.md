@@ -4,4 +4,4 @@
 
 这个程序可以帮你自动生成baidu google bing 链接
 
-![image-20200915123728688](readme/image-20200915123728688.png)
+![image-20200915123728688](/readme/image-20200915123728688.png)
